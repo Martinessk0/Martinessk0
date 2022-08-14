@@ -1,7 +1,7 @@
 <h2> Hi there👋</h2>
 <h3>My name is Martin Grahovski</h3>
-<h5>- 👀 I’m interested in C#, JavaScript, HTML and CSS</h5>
-<h5>- 🌱 I’m currently learning C#</h5>
+<h5>- 👀 I’m interested in C#, JavaScript,MS SQL, HTML and CSS</h5>
+<h5>- 🌱 I’m currently learning ASP.NET</h5>
 <br>
 <h2>📜 Certificates</h2>
 <a href="https://softuni.bg/certificates/details/112182/822b3b24">Programming Basics with C#</a>
