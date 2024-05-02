@@ -9,15 +9,15 @@
 
 <br>
 <h2>📜 Diploma</h2>
-<a href="https://softuni.bg/certificates/details/185046/ae354cb1">C# Web Developer</a>
+<h3><a href="https://softuni.bg/certificates/details/185046/ae354cb1">C# Web Developer</a></h3>
 <br></br>
 
 <br></br>
 
 <h2>💬 You can find me on</h2>
-<a href="https://www.linkedin.com/in/martin-grahovski-640771215/">Linkedin: Martin Grahovski</a>
+<h3><a href="https://www.linkedin.com/in/martin-grahovski-640771215/">Linkedin: Martin Grahovski</a></h3>
 <br>
-<a>Gmail: martingrahovski2004@gmail.com</a>
+<h3><a>Gmail: martingrahovski2004@gmail.com</a></h3>
 
 
 
