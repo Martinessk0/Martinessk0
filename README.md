@@ -1,24 +1,17 @@
-<h2> Hi there👋</h2>
-<h3>My name is Martin Grahovski</h3>
-<h5>- 👀 I’m interested in C#, JavaScript,MS SQL, HTML and CSS</h5>
-<h5>- 🌱 I’m currently learning ASP.NET</h5>
+<h2> Hi there!</h2>
+<h3>
+  I'm Martin Grahovski, a twenty-year-old from Sofia, Bulgaria, with a huge passion for programming.
+  I love diving into languages like C#, SQL, HTML & CSS, and I'm currently honing my skills in JavaScript. 
+  As a student at the Technical University in Sofia, I get to explore the exciting world of technology every single day.
+  I thrive on challenges and approach them with determination, fueled by my love for coding. 
+  My ultimate goal? To leave my mark in the ever-evolving landscape of technology.
+</h3>
+
 <br>
-<h2>📜 Certificates</h2>
-<a href="https://softuni.bg/certificates/details/112182/822b3b24">Programming Basics with C#</a>
+<h2>📜 Diploma</h2>
+<a href="https://softuni.bg/certificates/details/185046/ae354cb1">C# Web Developer</a>
 <br></br>
-<a href="https://softuni.bg/certificates/details/121580/7d3b8b8f">Programming Basics with JavaScript</a>
-<br></br>
-<a href="https://softuni.bg/certificates/details/119967/cdddf429">Programming Fundamentals with C#</a>
-<br></br>
-<a href="https://softuni.bg/certificates/details/130991/e72fcaef">C# Advanced</a>
-<br></br>
-<a href="https://softuni.bg/certificates/details/131930/1581c3b2">C# OOP</a>
-<br></br>
-<a href="https://softuni.bg/certificates/details/134971/8d30e38b">MS SQL</a>
-<br></br>
-<a href="https://softuni.bg/certificates/details/138417/d4e8fb68">Entity Framework Core</a>
-<br></br>
-<h3>Expect more in the near future!😄</h3>
+
 <br></br>
 <h2>💡 Currently learning</h2>
 <a href="https://softuni.bg/trainings/3853/csharp-web-basics-basics-september-2022">C# Web Basics</a>
