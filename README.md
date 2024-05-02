@@ -1,5 +1,5 @@
-<h2> Hi there!</h2>
-<h3>
+<h1> Hi there!</h2>
+<h2>
   I'm Martin Grahovski, a twenty-year-old from Sofia, Bulgaria🏙️, with a huge passion for programming💻.
   I love diving into languages like C#, SQL, HTML & CSS, and I'm currently honing my skills in JavaScript. 
   As a student at the Technical University in Sofia, I get to explore the exciting world of technology every single day🌍.
@@ -17,7 +17,7 @@
 <h2>💬 You can find me on</h2>
 <a href="https://www.linkedin.com/in/martin-grahovski-640771215/">Linkedin: Martin Grahovski</a>
 <br>
-<a href="martingrahovski2004@gmail.com">Gmail: martingrahovski2004@gmail.com</a>
+<a>Gmail: martingrahovski2004@gmail.com</a>
 
 
 
