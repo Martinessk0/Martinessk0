@@ -16,7 +16,6 @@
 
 <h2>💬 You can find me on</h2>
 <h3><a href="https://www.linkedin.com/in/martin-grahovski-640771215/">Linkedin: Martin Grahovski</a></h3>
-<br>
 <h3><a>Gmail: martingrahovski2004@gmail.com</a></h3>
 
 
